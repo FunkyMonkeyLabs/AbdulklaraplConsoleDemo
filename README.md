@@ -1,10 +1,10 @@
 FunkyMonkeyLabs
 ===============
 
-Abdulklara Console Component Demo
+Abdulklarapl Console Component Demo
 ---------------------------------
 
-Instalation:
+Installation:
 
 ```
 $ git clone git@github.com:FunkyMonkeyLabs/AbdulklaraplConsoleDemo.git console
