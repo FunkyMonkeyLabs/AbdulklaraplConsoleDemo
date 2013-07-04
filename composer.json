@@ -1,0 +1,6 @@
+{
+	"require": {
+		"abdulklarapl/console": "dev-master"
+	},
+	"minimum-stability": "dev"
+}
