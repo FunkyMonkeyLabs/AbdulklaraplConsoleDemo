@@ -1,4 +1,4 @@
-FunkyMonkeyLabs (http://funkymonkeylabs.pl)
+FunkyMonkeyLabs
 ===============
 
 Abdulklarapl Console Component Demo
